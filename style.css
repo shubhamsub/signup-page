@@ -25,7 +25,7 @@
     transform: translateY(-50%);
     padding: 20px 40px;
     background-color: #02304710;
-    backdrop-filter: blur(8px);
+    backdrop-filter: blur(10px);
     border: solid 0.1px black;
     border-radius: 8px;
     /* box-shadow: 3px 3px 3px #ffb703; */
